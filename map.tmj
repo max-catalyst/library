@@ -642,14 +642,13 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":18,
-                     "text":"Auditorium",
-                     "wrap":true
+                     "text":"Auditorium"
                     },
                  "type":"",
                  "visible":true,
                  "width":110.008939015313,
-                 "x":1065.96940499684,
-                 "y":1060.31027400121
+                 "x":1066.7453807864,
+                 "y":1063.41417715943
                 }, 
                 {
                  "height":18.8438,
@@ -662,14 +661,13 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":18,
-                     "text":"CP Classroom",
-                     "wrap":true
+                     "text":"CP Classroom"
                     },
                  "type":"",
                  "visible":true,
                  "width":110.009,
-                 "x":1769.19130529857,
-                 "y":839.227598317914
+                 "x":1767.63935371946,
+                 "y":840.779549897025
                 }, 
                 {
                  "height":33.2155,
@@ -682,8 +680,7 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":14,
-                     "text":"Staff Common Room",
-                     "wrap":true
+                     "text":"Staff Common Room"
                     },
                  "type":"",
                  "visible":true,
@@ -702,8 +699,7 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":18,
-                     "text":"Garden",
-                     "wrap":true
+                     "text":"Garden"
                     },
                  "type":"",
                  "visible":true,
@@ -722,13 +718,12 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":18,
-                     "text":"Action Space",
-                     "wrap":true
+                     "text":"Action Space"
                     },
                  "type":"",
                  "visible":true,
                  "width":110.009,
-                 "x":360.74730529857,
+                 "x":362.299256877681,
                  "y":842.422598317914
                 }, 
                 {
@@ -742,14 +737,13 @@
                      "fontfamily":"Calluna",
                      "halign":"center",
                      "pixelsize":18,
-                     "text":"Games Room",
-                     "wrap":true
+                     "text":"Games Room"
                     },
                  "type":"",
                  "visible":true,
                  "width":110.009,
-                 "x":360.83730529857,
-                 "y":616.555598317914
+                 "x":363.165232667236,
+                 "y":617.33157410747
                 }],
          "opacity":1,
          "type":"objectgroup",
